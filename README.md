@@ -1,2 +1,2 @@
 # Collinear_FFs
-Collections of collinear FF determinations given as LHPDF grids.
+Collections of collinear fragmentation functions (FFs) given as LHPDF grids.
