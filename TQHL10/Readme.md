@@ -5,12 +5,12 @@ We address the formation mechanism of a tetrqaurk state via the fragmentation ap
 with Heavy and Light flavors", named TQHL1.0 [1]. It was built by evolving à la DGLAP a Suzuki-like model input for the heavy-quark function [2][3]. Final LHAPDF grids (central value only) are evolved via the AFPEL library [4].
 
 Please acknowledge primary references and, if possible, additional ones when using these FF sets!  
-
+  
 
 Primary references:
 
 [1] F.G. Celiberto and A. Papa, "A high-energy QCD portal to exotic matter: Heavy-light tetraquarks at the HL-LHC", [arXiv:2308.00809 [hep-ph]].  
-
+  
 
 Additional references:
 
