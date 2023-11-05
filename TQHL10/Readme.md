@@ -1,4 +1,4 @@
-# $\mbox{\tt TQHL1.0}$: A high-energy QCD portal to exotic matter
+# TQHL1.0: A high-energy QCD portal to exotic matter
 ## TetraQuarks with Heavy and Light flavor collinear VFNS FFs
 
 We address the formation mechanism of a neutral heavy-light hidden-flavor tetraquark state $X_{Q q \bar Q \bar q}$ via the fragmentation approximation, valid in the large transverse-momentum regime matter of our analysis. To this extent, we release a first and novel NLO FF set for "TetraQuarks
