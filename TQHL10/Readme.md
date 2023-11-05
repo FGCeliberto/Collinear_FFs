@@ -2,7 +2,7 @@
 ## TetraQuarks with Heavy and Light flavor collinear VFNS FFs
 
 We address the formation mechanism of a neutral heavy-light hidden-flavor tetraquark state $X_{Q q \bar Q \bar q}$ via the fragmentation approximation, valid in the large transverse-momentum regime matter of our analysis. To this extent, we release a first and novel NLO FF set for "TetraQuarks
-with Heavy and Light flavors", named $\mbox{\tt TQHL1.0}$ [1]. It was built by evolving à la DGLAP a Suzuki-like model input for the heavy-quark function [2][3]. Final LHAPDF grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [4].
+with Heavy and Light flavors", named $\mbox{\tt TQHL1.0}$ [1]. It was built by evolving à la DGLAP a Suzuki-like model input for the heavy-quark function [2][3]. Final $\mbox{LHAPDF} grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [4].
 
 Please acknowledge primary references and, if possible, additional ones when using these FF sets!  
   
