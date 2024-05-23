@@ -1,4 +1,4 @@
-y # Collinear_FFs
+# Collinear_FFs
 Collections of collinear fragmentation functions (FFs) given as LHPDF grids.
 
 
