@@ -8,7 +8,7 @@ Please acknowledge primary references and, if possible, additional ones when usi
 
 Primary references:
 
-[1] F.G. Celiberto and A. Papa, "A high-energy QCD portal to exotic matter: Heavy-light tetraquarks at the HL-LHC", [arXiv:2308.00809 [hep-ph]].  
+[1] F.G. Celiberto and A. Papa, "Fully charmed tetraquarks from LHC to FCC: Natural stability from fragmentation", [arXiv:2405.xxxxx [hep-ph]].  
   
 
 Additional references:
