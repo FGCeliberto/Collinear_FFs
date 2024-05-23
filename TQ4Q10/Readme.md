@@ -15,5 +15,5 @@ Additional references:
 
 [2] 
 [3] S.M. Moosavi Nejad and N. Amiri, Phys. Rev. D 105 (3) (2022) 034001 [arXiv:2110.15251 [hep-ph]]. 
-[4]
+[4] M. Suzuki, Phys. Rev. D 33 (1986) 676.
 [5] V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]].  
