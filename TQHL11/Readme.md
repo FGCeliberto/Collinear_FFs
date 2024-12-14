@@ -6,7 +6,7 @@ We address the formation mechanism of a neutral heavy-light hidden-flavor tetraq
 Please acknowledge primary references and, if possible, additional ones when using these FF sets!  
   
 
-Primary references:
+References for DGLAP-evolved FFs:
 
 [1] F.G. Celiberto and G. Gatto, "Bottomonium-like states in proton collisions: Fragmentation and resumamtion" [arXiv:2412.xxxxx [hep-ph]].
 [2] F.G. Celiberto and A. Papa, "A high-energy QCD portal to exotic matter: Heavy-light tetraquarks at the HL-LHC", Phys. Lett. B 848 (2024) 138406 [arXiv:2308.00809 [hep-ph]].
