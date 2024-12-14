@@ -2,7 +2,7 @@
 Collections of collinear fragmentation functions (FFs) given as LHPDF grids.
 
 
-Available FF famili to date:
+Available FF families to date:
 
 1. TQHLx.y (TetraQuarks with Heavy and Light flavors)
 
