@@ -9,7 +9,7 @@ Please acknowledge primary references and, if possible, additional ones when usi
 
 Primary references:
 
-[1] F.G. Celiberto and A. Papa, "A high-energy QCD portal to exotic matter: Heavy-light tetraquarks at the HL-LHC", [arXiv:2308.00809 [hep-ph]].  
+[1] F.G. Celiberto and A. Papa, "A high-energy QCD portal to exotic matter: Heavy-light tetraquarks at the HL-LHC", Phys. Lett. B 848 (2024) 138406 [arXiv:2308.00809 [hep-ph]].    
   
 
 Additional references:
