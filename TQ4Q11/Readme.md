@@ -1,13 +1,13 @@
 # TQ4Q1.1: Quarkonium-like states from LHC to FCC: Fragmentation and Resummation
 ## TetraQuarks with 4 heavy Quarks VFNS FFs
 
-We address the formation mechanism of fully heavy tetraquark states, $T_{4Q}(0^{++})$ and $T_{4Q}(2^{++})$ radial resonances, via the fragmentation approximation, valid in the large transverse-momentum regime matter of our analysis. To this extent, we release novel NLO FF sets for "TetraQuarks with 4 heavy Quarks", named $\mbox{\tt TQ4Q1.1}$ [1]. They extend and supersede the corresponding {\tt 1.0} version derived in recent studies [2]. The TQ4Q1.1 built by evolving à la DGLAP potential NRQCD calculations for the both the gluon [3] and the quark function [4]. Final $\mbox{\tt LHAPDF}$ grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [5].
+We address the formation mechanism of fully heavy tetraquark states, $T_{4Q}(0^{++})$, and $T_{4Q}(2^{++})$, and $T_{4Q}(1^{+-})$ resonances, via the fragmentation approximation, valid in the large transverse-momentum regime matter of our analysis. To this extent, we release novel NLO FF sets for "TetraQuarks with 4 heavy Quarks", named $\mbox{\tt TQ4Q1.1}$ [1]. They extend and supersede the corresponding {\tt 1.0} version derived in recent studies [2]. The TQ4Q1.1 built by evolving à la DGLAP potential NRQCD calculations for the both the gluon [3] and the quark function [4]. Final $\mbox{\tt LHAPDF}$ grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [5].
 
 Please acknowledge references when using these FF sets!  
 
 References for DGLAP-evolved FFs:
 
-[1] F.G. Celiberto and G. Gatto, "Bottomonium-like states in proton collisions: Fragmentation and resumamtion" [arXiv:2412.xxxxx [hep-ph]].
+[1] F.G. Celiberto and G. Gatto, "Bottomonium-like states in proton collisions: Fragmentation and resumamtion" [arXiv:2412.10549  [hep-ph]].
 [2] F.G. Celiberto, G. Gatto, A. Papa, "Fully charmed tetraquarks from LHC to FCC: Natural stability from fragmentation", Eur. Phys. J. C 84 (2024) 10, 1071  [arXiv:2405.14773 [hep-ph]].  
   
 
