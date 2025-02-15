@@ -1,21 +1,21 @@
-# PQ5Q1.0: Heavy-fragmentation to S-wave pentquarks at next-generation hadron colliders
+# PQ5Q1.0: Heavy-fragmentation to S-wave pentaquarks at next-generation hadron colliders
 ## PentaQuarks with 5 heavy Quarks multimodal VFNS FFs
 
-We address the formation mechanism of fully charmed tetraquark states, $T_{4c}(0^{++})$ and $T_{4c}(2^{++})$ radial resonances, via the fragmentation approximation, valid in the large transverse-momentum regime matter of our analysis. To this extent, we release a first and novel NLO FF family for "TetraQuarks with 4 heavy Quarks", named $\mbox{\tt TQ4Q1.0}$ [1]. It was built by evolving à la DGLAP a quark-potential NRQCD calculation for the gluon function [2], together with a spin-physics inspired model input for the heavy-quark function [3][4]. Final $\mbox{\tt LHAPDF}$ grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [5].
+We address the leading-power fragmentation of fully heavy pentaquarks ($|Q\bar{Q}QQQ\rangle$ $P_{5Q)$ states) in the color-singlet $S$-wave channel. We introduce a new set of hadron-structure-oriented, \emph{multimodal} collinear fragmentation functions, named {\tt PQ5Q1.0} [1].
+They rely on an enhanced calculation of the initial-scale input for the constituent heavy-quark fragmentation channel, making them well suited to describe the short-distance emission of either a compact multicharm state [2] or a dicharm-charm-dicharm configuration [3]. Final $\mbox{\tt LHAPDF}$ grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [4].
+
 
 Please acknowledge references when using these FF sets!  
 
 References for DGLAP-evolved FFs:
 
-[1] F.G. Celiberto, G. Gatto, A. Papa, "Fully charmed tetraquarks from LHC to FCC: Natural stability from fragmentation", Eur. Phys. J. C 84 (2024) 10, 1071 [arXiv:2405.14773 [hep-ph]].  
-  
+[1] F.G. Celiberto, "Heavy-fragmentation to S-wave pentacharms at next-generation hadron colliders" [arXiv:2502.xxxxzx [hep-ph]].  
 
 References for initial-scale inputs:
 
-[2] F. Feng, Y. Huang, Y. Jia, W.L. Sang, X. Xiong, J.Y. Zhang, Phys. Rev. D 106 (11) (2022), 114029 [arXiv:2009.08450 [hep-ph]].    
-[3] S.M. Moosavi Nejad and N. Amiri, Phys. Rev. D 105 (3) (2022) 034001 [arXiv:2110.15251 [hep-ph]].  
-[4] M. Suzuki, Phys. Rev. D 33 (1986) 676.  
+[3] R. Farasheian, S.M. Moosavi Nejad, Eur. Phys. J. A 60 (2024) 3, 65.    
+[3] R. Farasheian, S.M. Moosavi Nejad, Eur. Phys. J. A 60 (2024) 7, 143.  
 
 Other references:
 
-[5] V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]].  
+[4] V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]].  
