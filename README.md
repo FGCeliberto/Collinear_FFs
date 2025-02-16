@@ -20,4 +20,4 @@ Available FF families to date:
 
 3. PQ5Qx.y (PentaQuarks with 5 heavy Quarks)
 
-   PQ5Q1.0 (NLO, 1 set, replica--0 = direct multicharm, replica--1 = diquark-like)
+   PQ5Q1.0 (NLO, 1 set, replica$-$0 = direct multicharm, replica$-$1 = diquark-like)
