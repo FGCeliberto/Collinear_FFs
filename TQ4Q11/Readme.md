@@ -1,4 +1,4 @@
-# TQ4Q1.1: Quarkonium-like states from LHC to FCC: Fragmentation and Resummation
+# TQ4Q1.1: Quarkoniumlike states from LHC to FCC: Fragmentation and Resummation
 ## TetraQuarks with 4 heavy Quarks VFNS FFs
 
 We address the formation mechanism of fully heavy tetraquark states, scalar $T_{4Q}(0^{++})$, axial-vector $T_{4Q}(1^{+-})$, and tensor $T_{4Q}(2^{++})$ resonances, via the fragmentation approximation, valid in the large transverse-momentum regime matter of our analysis. To this extent, we release novel NLO FF sets for "TetraQuarks with 4 heavy Quarks", named $\mbox{\tt TQ4Q1.1}$ [1,2]. They extend and supersede the corresponding {\tt 1.0} version derived in recent studies [3]. The TQ4Q1.1 are built by evolving à la DGLAP potential NRQCD calculations for the both the gluon [4] and the quark function [5]. Final $\mbox{\tt LHAPDF}$ grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [6].
