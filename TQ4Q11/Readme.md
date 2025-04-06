@@ -8,9 +8,7 @@ Please acknowledge references when using these FF sets!
 References for DGLAP-evolved FFs:
 
 [1] F.G. Celiberto and G. Gatto, "Bottomonium-like states in proton collisions: Fragmentation and resumamtion" [arXiv:2412.10549  [hep-ph]].
-
 [2] F.G. Celiberto, "Fragmentation functions for axial-vector heavy tetraquarks. A TQ4Q1.1 update", [arXiv:2504.xxxxx [hep-ph]].  
-
 [3] F.G. Celiberto, G. Gatto, A. Papa, "Fully charmed tetraquarks from LHC to FCC: Natural stability from fragmentation", Eur. Phys. J. C 84 (2024) 10, 1071  [arXiv:2405.14773 [hep-ph]].  
 
 References for initial-scale inputs:
