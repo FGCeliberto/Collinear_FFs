@@ -9,11 +9,11 @@ Please acknowledge references when using these FF sets!
 
 References for DGLAP-evolved FFs:
 
-[1] F.G. Celiberto, "Heavy-fragmentation to S-wave pentacharms at next-generation hadron colliders" [arXiv:2502.xxxxzx [hep-ph]].  
+[1] F.G. Celiberto, "Heavy-fragmentation to S-wave pentacharms at next-generation hadron colliders" [arXiv:2502.11136 [hep-ph]].  
 
 References for initial-scale inputs:
 
-[3] R. Farasheian, S.M. Moosavi Nejad, Eur. Phys. J. A 60 (2024) 3, 65.    
+[2] R. Farasheian, S.M. Moosavi Nejad, Eur. Phys. J. A 60 (2024) 3, 65.    
 [3] R. Farasheian, S.M. Moosavi Nejad, Eur. Phys. J. A 60 (2024) 7, 143.  
 
 Other references:
