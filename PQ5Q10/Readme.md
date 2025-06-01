@@ -1,4 +1,4 @@
-# PQ5Q1.0: Heavy-fragmentation to S-wave pentaquarks at next-generation hadron colliders
+# PQ5Q1.0: Heavy-flavor multimodal fragmentation to S-wave pentaquarks at next-generation hadron colliders
 ## PentaQuarks with 5 heavy Quarks multimodal VFNS FFs
 
 We address the leading-power fragmentation of fully heavy pentaquarks ($|Q\bar{Q}QQQ\rangle$ $P_{5Q}$ states) in the color-singlet $S$-wave channel. We introduce a new set of hadron-structure-oriented, $\mbox{\emph{multimodal}}$ collinear fragmentation functions, named $\mbox{\tt PQ5Q1.0}$ [1].
