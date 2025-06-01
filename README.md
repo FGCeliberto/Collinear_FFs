@@ -6,8 +6,7 @@ Available FF families to date:
 
 1. OMG3Qx.y (OMeGa baryons with 3 heavy Quarks VFNS FFs)
 
-   OMG3Q1.0 (NLO, 1 sets
-   , central value only, diquark-like)
+   OMG3Q1.0 (NLO, 1 set, central value only, diquark-like)
 
 
 3. TQHLx.y (TetraQuarks with Heavy and Light flavors)
