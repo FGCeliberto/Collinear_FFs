@@ -5,7 +5,7 @@ We address the formation mechanism of fully heavy tetraquark states, scalar $T_{
 For convenience, we also provide [3] three replicas to estimate perturbative uncertainties associated with the fragmentation scale: replica0 is the central set, while replicas1 and~2 correspond to variations of the initial scale by a factor of two. Since the FFs scale linearly with the LDME, users can apply LDME variations independently to assess nonperturbative uncertainties.
 They extend and supersede the corresponding {\tt 1.0} version derived in recent studies [4]. The TQ4Q1.1 are built by evolving à la DGLAP potential NRQCD calculations for the both the gluon [5] and the quark function [6]. Final $\mbox{\tt LHAPDF}$ grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [7].
 
-To support reproducibility, we provide a stand-alone, self-contained \textsc{Mathematica} notebook extracted from the internal {\symJethad} framework, containing all short-distance coefficients used in this work. It requires no external dependencies, is validated against the codebase, and can be used for numerical or symbolic checks. The notebook is also included as Supplemental Material in [3].
+To support reproducibility, we provide a stand-alone, self-contained $\mbox{\tt MATHEMATICA}$ notebook extracted from the internal $\mbox{\tt symJETHAD}$ framework, containing all short-distance coefficients used in this work. It requires no external dependencies, is validated against the codebase, and can be used for numerical or symbolic checks. The notebook is also included as Supplemental Material in [3].
 
 Please acknowledge references when using these FF sets!  
 
