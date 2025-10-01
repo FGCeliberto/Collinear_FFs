@@ -20,7 +20,7 @@ Available FF families to date:
 
    TQ4Q1.0 (NLO, 4 sets, central value only)
 
-   TQ4Q1.1 (NLO, 10 sets, central value only)
+   TQ4Q1.1 (NLO, 4 (main) + 6 (supplementary sets, replica-like uncertainties in main sets)
 
 
 5. PQ5Qx.y (PentaQuarks with 5 heavy Quarks)
