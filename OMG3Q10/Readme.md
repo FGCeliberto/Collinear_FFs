@@ -19,9 +19,9 @@ References for initial-scale inputs:
 
 References for the fragmentation evolution scheme:
 
-[4] F.G. Celiberto, Moriond QCD 2024 [arXiv:2405.08221 [hep-ph]]
-[5] F.G. Celiberto, PoS DIS2024 (2025) 168 [arXiv:2406.10779 [hep-ph]]
-[6] F.G. Celiberto, Acta Phys.Polon.Supp. 18 (2025) 1, 1-A22 [arXiv:2412.05661 [hep-ph]]
+[4] F.G. Celiberto, Moriond QCD 2024 [arXiv:2405.08221 [hep-ph]]  
+[5] F.G. Celiberto, PoS DIS2024 (2025) 168 [arXiv:2406.10779 [hep-ph]]  
+[6] F.G. Celiberto, Acta Phys. Polon. Supp. 18 (2025) 1, 1-A22 [arXiv:2412.05661 [hep-ph]]  
 
 
 Other references:
