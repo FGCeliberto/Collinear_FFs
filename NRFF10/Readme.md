@@ -19,7 +19,7 @@ Please acknowledge references when using these FF sets!
 
 References for DGLAP-evolved FFs:
 
-[1]  F.G. Celiberto, F. Lonigro, "Pseudoscalar heavy-quarkonium hadroproduction from nonrelativistic fragmentation at NLL/NLO$^+$" [arXiv:2510.xxxxx [hep-ph]]   
+[1]]&nbsp;]&nbsp;F.G. Celiberto, F. Lonigro, "Pseudoscalar heavy-quarkonium hadroproduction from nonrelativistic fragmentation at NLL/NLO$^+$" [arXiv:2510.xxxxx [hep-ph]]   
 
 
 References for LO initial-scale inputs:
