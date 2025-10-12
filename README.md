@@ -4,7 +4,7 @@ Collections of collinear fragmentation functions (FFs) given as LHPDF grids.
 
 Available FF families to date:
 
-1. NRFFx.y (NonRelativistic QCD Fragmentation Functions)
+1. NRFFx.y (NonRelativistic Fragmentation Functions)
    
    NRFF1.0 (NLO, 2 sets, central value only, LDME uncertainties)
 
