@@ -17,7 +17,7 @@ that consistently includes all partonic channels within collinear factorization 
 Please acknowledge references when using these FF sets!  
 
 
-References for DGLAP-evolved FFs:
+Main references for the $\mbox{\tt NRFF1.0}$ FFs:
 
 [1]&nbsp;&nbsp;F.G. Celiberto, F. Lonigro, "Pseudoscalar heavy-quarkonium hadroproduction from nonrelativistic fragmentation at NLL/NLO+" [arXiv:2510.xxxxx [hep-ph]]   
 
