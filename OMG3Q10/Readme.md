@@ -10,7 +10,7 @@ Please acknowledge references when using these FF sets!
 
 References for DGLAP-evolved FFs:
 
-[1] F.G. Celiberto, "Unwinding the rare $\Omega$ sector: Fragmentation of fully charmed baryons from HL-LHC to FCC" [arXiv:2505.xxxxx [hep-ph]].  
+[1] F.G. Celiberto, "Unwinding the rare $\Omega$ sector: Fragmentation of fully charmed baryons from HL-LHC to FCC" [arXiv:2505.00776 [hep-ph]].  
 
 References for initial-scale inputs:
 
