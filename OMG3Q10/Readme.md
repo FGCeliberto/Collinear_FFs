@@ -14,8 +14,8 @@ References for DGLAP-evolved FFs:
 
 References for initial-scale inputs:
 
-[2] Moosavi Nejad, Phys. Rev. D 96 (2017) 11, 114021.    
-[3] M. Delpasand, S.M. Moosavi Nejad, Phys. Rev. D 99 (2019) 11, 114028.
+[2] Moosavi Nejad, Phys. Rev. D 96 (2017) 11, 114021    
+[3] M. Delpasand, S.M. Moosavi Nejad, Phys. Rev. D 99 (2019) 11, 114028
 
 References for the fragmentation evolution scheme:
 
@@ -26,4 +26,4 @@ References for the fragmentation evolution scheme:
 
 Other references:
 
-[7] V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]].  
+[7] V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]]  
