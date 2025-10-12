@@ -24,25 +24,25 @@ References for DGLAP-evolved FFs:
 
 References for LO initial-scale inputs:
 
-[2]  E. Braaten, T.C. Yuan, Phys. Rev. Lett. 71 (1993) 1673-1676  
-[3]  E. Braaten, K.-m. Cheung, T.C. Yuan, Phys. Rev. D 48 (1993) 4230-4235  
+[2]&nbsp;&nbsp;E. Braaten, T.C. Yuan, Phys. Rev. Lett. 71 (1993) 1673-1676  
+[3]&nbsp;&nbsp;E. Braaten, K.-m. Cheung, T.C. Yuan, Phys. Rev. D 48 (1993) 4230-4235  
 
 
 References for NLO initial-scale inputs:
 
-[4]  P. Artoisenet, E. Braaten, JHEP 04 (2015) 121  
-[5]  P. Zhang et al., JHEP 04 (2019) 116  
-[6]  X.-C. Zheng, X.-G. Wu, X.-D. Huang, JHEP 07 (2021) 014  
-[7]  X.-C. Zheng, Z.-Y. Zhang, X.-G. Wu, Phys. Rev. D 103 (2021) 7, 074004  
+[4]&nbsp;&nbsp;P. Artoisenet, E. Braaten, JHEP 04 (2015) 121  
+[5]&nbsp;&nbsp;P. Zhang et al., JHEP 04 (2019) 116  
+[6]&nbsp;&nbsp;X.-C. Zheng, X.-G. Wu, X.-D. Huang, JHEP 07 (2021) 014  
+[7]&nbsp;&nbsp;X.-C. Zheng, Z.-Y. Zhang, X.-G. Wu, Phys. Rev. D 103 (2021) 7, 074004  
 
 
 References for the fragmentation evolution scheme:
 
-[8]  F.G. Celiberto, Moriond QCD 2024 [arXiv:2405.08221 [hep-ph]]  
+[8]&nbsp;&nbsp;F.G. Celiberto, Moriond QCD 2024 [arXiv:2405.08221 [hep-ph]]  
 [9]&nbsp;&nbsp;F.G. Celiberto, PoS DIS2024 (2025) 168 [arXiv:2406.10779 [hep-ph]]  
-[10] F.G. Celiberto, Acta Phys. Polon. Supp. 18 (2025) 1, 1-A22 [arXiv:2412.05661 [hep-ph]]  
+[10]&nbsp;F.G. Celiberto, Acta Phys. Polon. Supp. 18 (2025) 1, 1-A22 [arXiv:2412.05661 [hep-ph]]  
 
 
 Other references:
 
-[11] V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]]. 
+[11]&nbsp;V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]]. 
