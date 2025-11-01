@@ -8,7 +8,7 @@ Please acknowledge primary references and, if possible, additional ones when usi
 
 References for DGLAP-evolved FFs:
 
-[1] F.G. Celiberto and G. Gatto, "Bottomonium-like states in proton collisions: Fragmentation and resumamtion" [arXiv:2412.xxxxx [hep-ph]].  
+[1] F.G. Celiberto and G. Gatto, "Bottomonium-like states in proton collisions: Fragmentation and resumamtion" Phys.Rev.D 111 (2025) 3, 3 [arXiv:2412.10549 [hep-ph]].  
 [2] F.G. Celiberto and A. Papa, "A high-energy QCD portal to exotic matter: Heavy-light tetraquarks at the HL-LHC", Phys. Lett. B 848 (2024) 138406 [arXiv:2308.00809 [hep-ph]].  
 [3] F.G. Celiberto, "Exotic Tetraquarks at the HL-LHC with JETHAD: A High-Energy Viewpoint", Symmetry 16 (2024) 5, 550 [arXiv:2403.15639 [hep-ph]]. 
 
