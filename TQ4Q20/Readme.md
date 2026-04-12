@@ -1,9 +1,17 @@
 # TQ4Q2.0: Quarkoniumlike states from LHC to FCC: A high-precision fragmentation perspective
 ## TetraQuarks with 4 heavy Quarks VFNS FFs
 
-We address the formation mechanism of fully heavy tetraquark states, scalar $T_{4Q}(0^{++})$, axial-vector $T_{4Q}(1^{+-})$, and tensor $T_{4Q}(2^{++})$ resonances, via the fragmentation approximation, valid in the large transverse-momentum regime matter of our analysis. To this extent, we release novel NLO FF sets for "TetraQuarks with 4 heavy Quarks", named $\mbox{\tt TQ4Q2.0}$ [1,2,3]. 
-For convenience, we also provide [3] three replicas to estimate perturbative uncertainties associated with the fragmentation scale: replica 0 is the central set, while replicas 1 and 2 correspond to variations of the initial scale by a factor of two. Since the FFs scale linearly with the LDME, users can apply LDME variations independently to assess nonperturbative uncertainties.
-They extend and supersede the corresponding {\tt 1.1} and {\tt 1.0} versions derived in recent studies [2-5]. The TQ4Q2.0 are built by evolving à la DGLAP potential NRQCD calculations for the both the gluon [6] and the quark function [7]. Final $\mbox{\tt LHAPDF}$ grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [9].
+We present the {\tt TQ4Q2.0} fragmentation-function (FF) sets for all-heavy tetraquarks, including scalar $T_{4Q}(0^{++})$, axial-vector $T_{4Q}(1^{+-})$, and tensor $T_{4Q}(2^{++})$ states, constructed within the fragmentation approximation valid at large transverse momentum.
+
+These sets supersede the previous {\tt TQ4Q1.1} [2-4] and {\tt TQ4Q1.0} [5] implementations, providing a substantially improved and more complete description of the fragmentation mechanism. In particular, {\tt TQ4Q2.0} includes all partonic channels at the initial scale, embodying also nonconstituent light- and heavy-quark contributions, and implements an upgraded treatment of perturbative uncertainties.
+
+A key new feature is the introduction of a replica-based strategy to estimate perturbative fragmentation uncertainties (F-MHOUs). Instead of a limited set of scale variations, we generate $\mathcal{O}(100)$ replicas by varying renormalization and factorization scales entering the short-distance coefficients simultaneously, through pseudorandom factors in the range $[1/2,\,2]$ around their natural values. This provides a dynamically correlated and more realistic estimate of missing higher-order effects.
+
+Long-distance matrix elements (LDMEs) are kept fixed in the replica construction, as they enter as constant nonperturbative coefficients and can be varied independently by the user if needed.
+
+This replica ensemble is designed not only to quantify theoretical uncertainties, but also to enable future data-driven studies. In particular, it provides a natural interface for the extraction of nonperturbative parameters from differential cross-section measurements and offers a suitable input for modern statistical and machine-learning approaches to QCD phenomenology.
+
+The FFs are constructed from NRQCD-based calculations for both gluon and quark channels [6-8] and evolved via DGLAP equations within the {\tt HFNRevo} framework. Final grids are provided in {\tt LHAPDF6} format and evolved using the {\tt APFEL++} library [9].
 
 To support reproducibility, we provide a stand-alone, self-contained $\mbox{\tt MATHEMATICA}$ notebook extracted from the internal $\mbox{\tt symJETHAD}$ framework, containing all short-distance coefficients used in this work. It requires no external dependencies, is validated against the codebase, and can be used for numerical or symbolic checks.
 
