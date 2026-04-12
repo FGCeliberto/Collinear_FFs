@@ -11,7 +11,7 @@ Long-distance matrix elements (LDMEs) are kept fixed in the replica construction
 
 This replica ensemble is designed not only to quantify theoretical uncertainties, but also to enable future data-driven studies. In particular, it provides a natural interface for the extraction of nonperturbative parameters from differential cross-section measurements and offers a suitable input for modern statistical and machine-learning approaches to QCD phenomenology.
 
-The FFs are constructed from NRQCD-based calculations for both gluon and quark channels [6-8] and evolved via DGLAP equations within the $\mbox{\tt HFNRevo}$ framework. Final grids are provided in {\tt LHAPDF6} format and evolved using the $\mbox{\tt APFEL++}$ library [9].
+The FFs are constructed from NRQCD-based calculations for both gluon and quark channels [6-8] and evolved via DGLAP equations within the $\mbox{\tt HFNRevo}$ framework. Final grids are provided in $\mbox{\tt LHAPDF6}$ format and evolved using the $\mbox{\tt APFEL++}$ library [9].
 
 To support reproducibility, we provide a stand-alone, self-contained $\mbox{\tt MATHEMATICA}$ notebook extracted from the internal $\mbox{\tt symJETHAD}$ framework, containing all short-distance coefficients (SDCs) used in this work. It requires no external dependencies, is validated against the codebase, and can be used for numerical or symbolic checks.
 
