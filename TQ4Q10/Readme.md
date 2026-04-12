@@ -7,15 +7,15 @@ Please acknowledge references when using these FF sets!
 
 References for DGLAP-evolved FFs:
 
-[1] F.G. Celiberto, G. Gatto, A. Papa, "Fully charmed tetraquarks from LHC to FCC: Natural stability from fragmentation", Eur. Phys. J. C 84 (2024) 10, 1071 [arXiv:2405.14773 [hep-ph]].  
+[1]&nbsp;&nbsp;F.G. Celiberto, G. Gatto, A. Papa, "Fully charmed tetraquarks from LHC to FCC: Natural stability from fragmentation", Eur. Phys. J. C 84 (2024) 10, 1071 [arXiv:2405.14773 [hep-ph]].  
   
 
 References for initial-scale inputs:
 
-[2] F. Feng, Y. Huang, Y. Jia, W.L. Sang, X. Xiong, J.Y. Zhang, Phys. Rev. D 106 (11) (2022), 114029 [arXiv:2009.08450 [hep-ph]].    
-[3] S.M. Moosavi Nejad and N. Amiri, Phys. Rev. D 105 (3) (2022) 034001 [arXiv:2110.15251 [hep-ph]].  
-[4] M. Suzuki, Phys. Rev. D 33 (1986) 676.  
+[2]&nbsp;&nbsp;F. Feng, Y. Huang, Y. Jia, W.L. Sang, X. Xiong, J.Y. Zhang, Phys. Rev. D 106 (11) (2022), 114029 [arXiv:2009.08450 [hep-ph]].    
+[3]&nbsp;&nbsp;S.M. Moosavi Nejad and N. Amiri, Phys. Rev. D 105 (3) (2022) 034001 [arXiv:2110.15251 [hep-ph]].  
+[4]&nbsp;&nbsp;M. Suzuki, Phys. Rev. D 33 (1986) 676.  
 
 Other references:
 
-[5] V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]].  
+[5]&nbsp;&nbsp;V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]].  
