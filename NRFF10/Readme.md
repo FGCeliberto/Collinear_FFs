@@ -5,12 +5,12 @@ We address the leading-power fragmentation of pseudoscalar quarkonia ($\eta_c$ a
 To this end, we construct a new set of collinear fragmentation functions, named $\mbox{\tt NRFF1.0}$ [1].
 Initial conditions for all relevant partonic channels are computed at LO [2,3] and NLO in NRQCD [4-7].
 These functions build on the single-parton fragmentation approximation and evolve according to standard DGLAP equations in a VFNS. 
-The underlying framework, known as the {\tt HF-NRevo} scheme [8-10], 
+The underlying framework, known as the $\mbox{\tt HF-NRevo}$ scheme [8-10], 
 is specifically designed to evolve heavy-hadron FFs from nonrelativistic initial conditions, 
 while incorporating heavy-quark threshold effects in a consistent and systematic way.
 
 
-To the best of our knowledge, the {\tt NRFF1.0} sets represent the first-ever release of collinear fragmentation functions for heavy quarkonia 
+To the best of our knowledge, the $\mbox{\tt NRFF1.0}$ sets represent the first-ever release of collinear fragmentation functions for heavy quarkonia 
 that consistently includes all partonic channels within collinear factorization (October 2025).
 
 
@@ -19,7 +19,7 @@ Please acknowledge references when using these FF sets!
 
 Main references for the $\mbox{\tt NRFF1.0}$ FFs:
 
-[1]&nbsp;&nbsp;F.G. Celiberto, F. Lonigro, "Pseudoscalar heavy-quarkonium hadroproduction from nonrelativistic fragmentation at NLL/NLO+", Phys.Rev.D 112 (2025) 11, 114040 [arXiv:2510.22449 [hep-ph]]   
+[1]&nbsp;&nbsp;F.G. Celiberto, F. Lonigro, "Pseudoscalar heavy-quarkonium hadroproduction from nonrelativistic fragmentation at NLL/NLO+", Phys. Rev. D 112 (2025) 11, 114040 [arXiv:2510.22449 [hep-ph]]   
 
 
 References for LO initial-scale inputs:
