@@ -19,6 +19,8 @@ Please acknowledge references when using these FF sets!
 
 References for DGLAP-evolved FFs:
 
+
+[1] F.G. Celiberto, "All-charm tetraquarks at hadron colliders: A high-precision fragmentation perspective" [arXiv:2604.xxxxx [hep-ph]].  
 [2] F.G. Celiberto and G. Gatto, "Bottomonium-like states in proton collisions: Fragmentation and resummation" Phys.Rev.D 112 (2025) 7, 074041 [arXiv:2412.10549  [hep-ph]].  
 [3] F.G. Celiberto, "Fragmentation functions for axial-vector heavy tetraquarks: A TQ4Q1.1 update", Phys. Rev. D [Letters] 111 (2025) 11, L111501  [arXiv:2504.03949 [hep-ph]].  
 [4] F.G. Celiberto, "Fragmentation of fully heavy tetraquarks: The TQ4Q1.1 functions as a case study", Phys.Rev.D 112 (2025) 7, 074041 [arXiv:2507.09744 [hep-ph]].  
