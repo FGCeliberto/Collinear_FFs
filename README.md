@@ -27,7 +27,9 @@ Available FF families to date:
 
    TQ4Q1.1 (NLO, 6 main + 4 supplementary sets, replica-like MHOU uncertainties in main sets)
 
+   TQ4Q2.0 (NLO 6 sets, replica-like MHOU uncertainties)
 
-6. PQ5Qx.y (PentaQuarks with 5 heavy Quarks)
+
+7. PQ5Qx.y (PentaQuarks with 5 heavy Quarks)
 
    PQ5Q1.0 (NLO, 1 set, replica-0 = direct multicharm, replica-1 = diquark-like)
