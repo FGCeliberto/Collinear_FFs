@@ -1,9 +1,9 @@
 # TQ4Q2.0: Quarkoniumlike states from LHC to FCC: A high-precision fragmentation perspective
 ## TetraQuarks with 4 heavy Quarks VFNS FFs
 
-We present the {\tt TQ4Q2.0} fragmentation-function (FF) sets for all-heavy tetraquarks, including scalar $T_{4Q}(0^{++})$, axial-vector $T_{4Q}(1^{+-})$, and tensor $T_{4Q}(2^{++})$ states, constructed within the fragmentation approximation valid at large transverse momentum.
+We present the $\mbox{\tt TQ4Q2.0}$ fragmentation-function (FF) sets for all-heavy tetraquarks, including scalar $T_{4Q}(0^{++})$, axial-vector $T_{4Q}(1^{+-})$, and tensor $T_{4Q}(2^{++})$ states, constructed within the fragmentation approximation valid at large transverse momentum.
 
-These sets supersede the previous {\tt TQ4Q1.1} [2-4] and {\tt TQ4Q1.0} [5] implementations, providing a substantially improved and more complete description of the fragmentation mechanism. In particular, {\tt TQ4Q2.0} includes all partonic channels at the initial scale, embodying also nonconstituent light- and heavy-quark contributions, and implements an upgraded treatment of perturbative uncertainties.
+These sets supersede the previous $\mbox{\tt TQ4Q1.1}$ [2-4] and $\mbox{\tt TQ4Q1.0}$ [5] implementations, providing a substantially improved and more complete description of the fragmentation mechanism. In particular, $\mbox{\tt TQ4Q2.0}$ includes all partonic channels at the initial scale, embodying also nonconstituent light- and heavy-quark contributions, and implements an upgraded treatment of perturbative uncertainties.
 
 A key new feature is the introduction of a replica-based strategy to estimate perturbative fragmentation uncertainties (F-MHOUs). Instead of a limited set of scale variations, we generate $\mathcal{O}(100)$ replicas by varying renormalization and factorization scales entering the short-distance coefficients simultaneously, through pseudorandom factors in the range $[1/2, 2]$ around their natural values. This provides a dynamically correlated and more realistic estimate of missing higher-order effects.
 
@@ -11,9 +11,9 @@ Long-distance matrix elements (LDMEs) are kept fixed in the replica construction
 
 This replica ensemble is designed not only to quantify theoretical uncertainties, but also to enable future data-driven studies. In particular, it provides a natural interface for the extraction of nonperturbative parameters from differential cross-section measurements and offers a suitable input for modern statistical and machine-learning approaches to QCD phenomenology.
 
-The FFs are constructed from NRQCD-based calculations for both gluon and quark channels [6-8] and evolved via DGLAP equations within the {\tt HFNRevo} framework. Final grids are provided in {\tt LHAPDF6} format and evolved using the {\tt APFEL++} library [9].
+The FFs are constructed from NRQCD-based calculations for both gluon and quark channels [6-8] and evolved via DGLAP equations within the $\mbox{\tt HFNRevo}$ framework. Final grids are provided in {\tt LHAPDF6} format and evolved using the $\mbox{\tt APFEL++}$ library [9].
 
-To support reproducibility, we provide a stand-alone, self-contained $\mbox{\tt MATHEMATICA}$ notebook extracted from the internal $\mbox{\tt symJETHAD}$ framework, containing all short-distance coefficients used in this work. It requires no external dependencies, is validated against the codebase, and can be used for numerical or symbolic checks.
+To support reproducibility, we provide a stand-alone, self-contained $\mbox{\tt MATHEMATICA}$ notebook extracted from the internal $\mbox{\tt symJETHAD}$ framework, containing all short-distance coefficients (SDCs) used in this work. It requires no external dependencies, is validated against the codebase, and can be used for numerical or symbolic checks.
 
 Please acknowledge references when using these FF sets!  
 
