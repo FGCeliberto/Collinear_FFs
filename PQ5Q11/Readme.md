@@ -5,9 +5,9 @@ We address the leading-power fragmentation of fully heavy pentaquarks ($|Q\bar{Q
 
 They rely on an enhanced calculation of the initial-scale input for the constituent heavy-quark fragmentation channel, making them well suited to describe the short-distance emission of either a compact multiquark configuration [3] or a diquark-driven production mechanism [4]. Final $\mbox{\tt LHAPDF}$ grids (central value and replicas) are evolved via the $\mbox{\tt APFEL++}$ library [5].
 
-The $\mbox{\tt PQ5Q1.1}$ functions feature an uncertainty-aware construction, consistently accounting for both perturbative and nonperturbative sources of uncertainty. Perturbative effects are estimated via missing higher-order variations in the fragmentation dynamics (F-MHOUs), while the nonperturbative wave function is modeled through controlled variations of its transverse-momentum structure (NPWF).
+The $\mbox{\tt PQ5Q1.1}$ functions feature an uncertainty-aware construction, consistently accounting for both perturbative and nonperturbative sources of uncertainty. Perturbative effects are estimated via missing higher-order variations in the fragmentation dynamics (F-MHOUs), while the nonperturbative wave function is modeled through controlled variations of its transverse-momentum structure (F-NPWF).
 
-These contributions are combined within a replica-like framework, providing a coherent set of FF replicas that encode the combined impact of perturbative and nonperturbative uncertainties. The replica set consists of 18 members, organized into two blocks corresponding to the direct and scalar-diquark production mechanisms. Within each block, the replicas are constructed through a nested scan, where for each choice of energy-scale variation (F-MHOU) the transverse-momentum parameter $\langle {\vec q}_T^{2} \rangle$ is varied over the range $\langle {\vec q}_T^{2} \rangle = 80,\,90,\,100~\text{GeV}^2$, thus probing NPWF uncertainties.
+These contributions are combined within a replica-like framework, providing a coherent set of FF replicas that encode the combined impact of perturbative and nonperturbative uncertainties. The replica set consists of 18 members, organized into two blocks corresponding to the direct and scalar-diquark production mechanisms. Within each block, the replicas are constructed through a nested scan, where for each choice of energy-scale variation (F-MHOU) the transverse-momentum parameter $\langle {\vec q}_T^{2} \rangle$ is varied over the range $\langle {\vec q}_T^{2} \rangle = 80,\,90,\,100~\text{GeV}^2$, thus probing F-NPWF uncertainties.
 
 ### Replica structure
 
@@ -33,7 +33,7 @@ These contributions are combined within a replica-like framework, providing a co
 | 17 | diquark | 2   | 100 |
 
 - $K_{\mu}$ encodes energy-scale variations (F-MHOUs)  
-- $\langle {\vec q}_T^{2} \rangle$ corresponds to the NPWF parameter
+- $\langle {\vec q}_T^{2} \rangle$ corresponds to the F-NPWF parameter
 
 The central value corresponds to the default parameter configuration, while the replica ensemble can be used to estimate uncertainty bands in phenomenological applications.
 
