@@ -9,6 +9,32 @@ The $\mbox{\tt PQ5Q1.1}$ functions feature an uncertainty-aware construction, co
 
 These contributions are combined within a replica-like framework, providing a coherent set of FF replicas that encode the combined impact of perturbative and nonperturbative uncertainties. The replica set consists of 18 members, organized into two blocks corresponding to the direct and scalar-diquark production mechanisms. Within each block, the replicas are constructed through a nested scan, where for each choice of energy-scale variation (F-MHOU) the transverse-momentum parameter $\vqTTa$ is varied over the range $\vqTTa = 80,\,90,\,100~\text{GeV}^2$, thus probing NPWF uncertainties.
 
+### Replica structure
+
+| ID | mode    | $K_{\mu}$ | qT2 (GeV$^2$) |
+|----|--------|-----------|----------------|
+| 0  | direct  | 1   | 90  |
+| 1  | direct  | 1   | 80  |
+| 2  | direct  | 1   | 100 |
+| 3  | direct  | 0.5 | 90  |
+| 4  | direct  | 0.5 | 80  |
+| 5  | direct  | 0.5 | 100 |
+| 6  | direct  | 2   | 90  |
+| 7  | direct  | 2   | 80  |
+| 8  | direct  | 2   | 100 |
+| 9  | diquark | 1   | 90  |
+| 10 | diquark | 1   | 80  |
+| 11 | diquark | 1   | 100 |
+| 12 | diquark | 0.5 | 90  |
+| 13 | diquark | 0.5 | 80  |
+| 14 | diquark | 0.5 | 100 |
+| 15 | diquark | 2   | 90  |
+| 16 | diquark | 2   | 80  |
+| 17 | diquark | 2   | 100 |
+
+- $K_{\mu}$ encodes energy-scale variations (F-MHOUs)  
+- qT2 corresponds to the NPWF parameter $\vqTTa$
+
 The central value corresponds to the default parameter configuration, while the replica ensemble can be used to estimate uncertainty bands in phenomenological applications.
 
 This structure allows users to isolate perturbative and nonperturbative effects or combine them consistently in uncertainty estimates.
