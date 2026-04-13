@@ -1,8 +1,13 @@
 # PQ5Q1.1: Multimodal Fragmentation of All-Heavy Pentaquarks: Uncertainty-Aware Predictions for Hadron Colliders
 ## PentaQuarks with 5 heavy Quarks multimodal VFNS FFs
 
-We address the leading-power fragmentation of fully heavy pentaquarks ($|Q\bar{Q}QQQ\rangle$ $P_{5Q}$ states) in the color-singlet $S$-wave channel. We introduce a new set of hadron-structure-oriented, $\mbox{\emph{multimodal}}$ collinear fragmentation functions, named $\mbox{\tt PQ5Q1.1}$ [1].
-They rely on an enhanced calculation of the initial-scale input for the constituent heavy-quark fragmentation channel, making them well suited to describe the short-distance emission of either a compact multicharm state [2] or a dicharm-charm-dicharm configuration [3]. Final $\mbox{\tt LHAPDF}$ grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [4].
+We address the leading-power fragmentation of fully heavy pentaquarks ($|Q\bar{Q}QQQ\rangle$ $P_{5Q}$ states) in the color-singlet $S$-wave channel. We introduce a new set of hadron-structure-oriented, $\mbox{\emph{multimodal}}$ collinear fragmentation functions, named $\mbox{\tt PQ5Q1.1}$ [1], which extend and supersede the previous $\mbox{\tt PQ5Q1.0}$ set [2].
+
+The $\mbox{\tt PQ5Q1.1}$ functions feature an uncertainty-aware construction, consistently accounting for both perturbative and nonperturbative sources of uncertainty. Perturbative effects are estimated via missing higher-order variations in the fragmentation dynamics (F-MHOUs), while the nonperturbative wave function is modeled through controlled variations of its transverse-momentum structure (NPWF).
+
+These contributions are combined within a replica-like framework, providing a coherent set of FF replicas that encode the combined impact of perturbative and nonperturbative uncertainties. The central value corresponds to the default parameter configuration, while the replica ensemble can be used to estimate uncertainty bands in phenomenological applications.
+
+They rely on an enhanced calculation of the initial-scale input for the constituent heavy-quark fragmentation channel, making them well suited to describe the short-distance emission of either a compact multiquark configuration [3] or a diquark-driven production mechanism [4]. Final $\mbox{\tt LHAPDF}$ grids (central value and replicas) are evolved via the $\mbox{\tt APFEL++}$ library [5].
 
 
 Please acknowledge references when using these FF sets!  
@@ -14,9 +19,9 @@ References for DGLAP-evolved FFs:
 
 References for initial-scale inputs:
 
-[2]&nbsp;&nbsp;R. Farasheian, S.M. Moosavi Nejad, Eur. Phys. J. A 60 (2024) 3, 65.    
-[3]&nbsp;&nbsp;R. Farasheian, S.M. Moosavi Nejad, Eur. Phys. J. A 60 (2024) 7, 143.  
+[3]&nbsp;&nbsp;R. Farasheian, S.M. Moosavi Nejad, Eur. Phys. J. A 60 (2024) 3, 65.    
+[4]&nbsp;&nbsp;R. Farasheian, S.M. Moosavi Nejad, Eur. Phys. J. A 60 (2024) 7, 143.  
 
 Other references:
 
-[4]&nbsp;&nbsp;V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]].  
+[5]&nbsp;&nbsp;V. Bertone, S. Carrazza, J. Rojo, Comput. Phys. Commun. 185 (2014) 1647-1668 [arXiv:1310.1394 [hep-ph]].  
