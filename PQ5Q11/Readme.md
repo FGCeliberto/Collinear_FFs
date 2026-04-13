@@ -11,7 +11,7 @@ These contributions are combined within a replica-like framework, providing a co
 
 ### Replica structure
 
-| ID | mode    | $K_{\mu}$ | \langle {\vec q}_T^{\;2} \rangle [GeV$^2$] |
+| ID | mode    | $K_{\mu}$ | $\langle {\vec q}_T^{\;2} \rangle$ [GeV$^2$] |
 |----|--------|-----------|----------------|
 | 0  | direct  | 1   | 90  |
 | 1  | direct  | 1   | 80  |
