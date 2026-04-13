@@ -10,19 +10,19 @@ Please acknowledge references when using these FF sets!
 
 References for DGLAP-evolved FFs:
 
-[1] F.G. Celiberto, "Unwinding the rare $\Omega$ sector: Fragmentation of fully charmed baryons from HL-LHC to FCC", Phys. Rev. D 112 (2025) 7, 074023 [arXiv:2505.00776 [hep-ph]]
-[2] F.G. Celiberto, "Triply Heavy Ω Baryons with Jethad: A High-Energy Viewpoint", Symmetry 18 (2026) 1, 29 [arXiv:2604.01871 [hep-ph]]
+[1]&nbsp;&nbsp;F.G. Celiberto, "Unwinding the rare $\Omega$ sector: Fragmentation of fully charmed baryons from HL-LHC to FCC", Phys. Rev. D 112 (2025) 7, 074023 [arXiv:2505.00776 [hep-ph]]
+[2]&nbsp;&nbsp;F.G. Celiberto, "Triply Heavy Ω Baryons with Jethad: A High-Energy Viewpoint", Symmetry 18 (2026) 1, 29 [arXiv:2604.01871 [hep-ph]]
 
 References for initial-scale inputs:
 
-[3] Moosavi Nejad, Phys. Rev. D 96 (2017) 11, 114021    
-[4] M. Delpasand, S.M. Moosavi Nejad, Phys. Rev. D 99 (2019) 11, 114028
+[3]&nbsp;&nbsp;Moosavi Nejad, Phys. Rev. D 96 (2017) 11, 114021    
+[4]&nbsp;&nbsp;M. Delpasand, S.M. Moosavi Nejad, Phys. Rev. D 99 (2019) 11, 114028
 
 References for the fragmentation evolution scheme:
 
-[5] F.G. Celiberto, Moriond QCD 2024 [arXiv:2405.08221 [hep-ph]]  
-[6] F.G. Celiberto, PoS DIS2024 (2025) 168 [arXiv:2406.10779 [hep-ph]]  
-[6] F.G. Celiberto, Acta Phys. Polon. Supp. 18 (2025) 1, 1-A22 [arXiv:2412.05661 [hep-ph]]  
+[5]&nbsp;&nbsp;F.G. Celiberto, Moriond QCD 2024 [arXiv:2405.08221 [hep-ph]]  
+[6]&nbsp;&nbsp;F.G. Celiberto, PoS DIS2024 (2025) 168 [arXiv:2406.10779 [hep-ph]]  
+[7]&nbsp;&nbsp;F.G. Celiberto, Acta Phys. Polon. Supp. 18 (2025) 1, 1-A22 [arXiv:2412.05661 [hep-ph]]  
 
 
 Other references:
