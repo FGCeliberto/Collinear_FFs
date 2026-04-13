@@ -11,7 +11,7 @@ Available FF families to date:
 
 3. OMG3Qx.y (OMeGa baryons with 3 heavy Quarks VFNS FFs)
 
-   OMG3Q1.0 (NLO, 1 set, central value only, diquark-like)
+   OMG3Q1.0 (NLO, 2 sets, central value only, diquark-like)
 
 
 4. TQHLx.y (TetraQuarks with Heavy and Light flavors)
@@ -32,4 +32,6 @@ Available FF families to date:
 
 7. PQ5Qx.y (PentaQuarks with 5 heavy Quarks)
 
-   PQ5Q1.0 (NLO, 1 set, replica-0 = direct multicharm, replica-1 = diquark-like)
+   PQ5Q1.0 (NLO, 2 sets, replica 0 = direct multiquark, replica 1 = diquark-like)
+
+   PQ5Q1.1 (NLO, 2 set, F-MHOU + NPWF uncertainties, replica 0->8 = direct multicharm, replica 9->17 = diquark-like)
