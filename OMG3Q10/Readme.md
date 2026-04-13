@@ -1,7 +1,7 @@
 # OMG3Q1.0: Unwinding the rare $\Omega$ sector: Fragmentation of fully heavy baryons from HL-LHC to FCC
 ## OMeGa baryons with 3 heavy Quarks VFNS FFs
 
-We address the leading-power fragmentation of fully charmed rare baryons ($\Omega_{3Q}$ states) in the color-singlet $S$-wave channel. We introduce a new set of hadron-structure-oriented collinear fragmentation functions, named $\mbox{\tt OMG3Q1.0}$ [1,2].
+We address the leading-power fragmentation of fully charmed rare baryons ($\Omega_{3Q}$ states) in the color-singlet $S$-wave channel. We introduce two new sets of hadron-structure-oriented collinear fragmentation functions, named $\mbox{\tt OMG3Q1.0}$ [1,2].
 Our formulation builds on a diquark-inspired proxy model, which parallels the standard structure commonly employed in the fragmentation modeling of both singly heavy hadrons and heavy quarkonia. In this picture, FFs are modeled as convolutions between perturbative SDCs, describing the splitting of an outgoing high-energy parton into the valence Fock state, and a purely nonperturbative component that encapsulates the hadronization process into the observed hadron. 
 We combine diquark-like proxy model NLO inputs for both constituent-heavy-quark [3] and gluon [4] channels, calculated at the initial energy scales, with a DGLAP evolution that ensures a consistent treatment of heavy-quark thresholds, following directly from the {\tt HF-NRevo} scheme [5-7]. Final $\mbox{\tt LHAPDF}$ grids (central value only) are evolved via the $\mbox{\tt APFEL++}$ library [8].
 
