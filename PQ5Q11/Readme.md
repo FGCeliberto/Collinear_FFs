@@ -1,9 +1,9 @@
 # PQ5Q1.1: Multimodal Fragmentation of All-Heavy Pentaquarks: Uncertainty-Aware Predictions for Hadron Colliders
 ## PentaQuarks with 5 heavy Quarks multimodal VFNS FFs
 
-We address the leading-power fragmentation of fully heavy pentaquarks ($|Q\bar{Q}QQQ\rangle$ $P_{5Q}$ states) in the color-singlet $S$-wave channel. We introduce a new set of hadron-structure-oriented, $\mbox{\emph{multimodal}}$ collinear fragmentation functions, named $\mbox{\tt PQ5Q1.1}$ [1], which extend and supersede the previous $\mbox{\tt PQ5Q1.0}$ set [2].
+We address the leading-power fragmentation of all-charm pentaquarks ($|c\bar{c}ccc\rangle$ $P_{5c}$ pentacharms) in the color-singlet $S$-wave channel. We introduce a new set of hadron-structure-oriented, $\mbox{\emph{multimodal}}$ collinear fragmentation functions, named $\mbox{\tt PQ5Q1.1}$ [1], which extend and supersede the previous $\mbox{\tt PQ5Q1.0}$ set [2].
 
-They rely on an enhanced calculation of the initial-scale input for the constituent heavy-quark fragmentation channel, making them well suited to describe the short-distance emission of either a compact multiquark configuration [3] or a diquark-driven production mechanism [4]. Final $\mbox{\tt LHAPDF}$ grids (central value and replicas) are evolved via the $\mbox{\tt APFEL++}$ library [5].
+They rely on an enhanced calculation of the initial-scale input for the charm-quark fragmentation channel, making them well suited to describe the short-distance emission of either a compact multiquark configuration [3] or a diquark-driven production mechanism [4]. Final $\mbox{\tt LHAPDF}$ grids (central value and replicas) are evolved via the $\mbox{\tt APFEL++}$ library [5].
 
 The $\mbox{\tt PQ5Q1.1}$ functions feature an uncertainty-aware construction, consistently accounting for both perturbative and nonperturbative sources of uncertainty. Perturbative effects are estimated via missing higher-order variations in the fragmentation dynamics (F-MHOUs), while the nonperturbative wave function is modeled through controlled variations of its transverse-momentum structure (F-NPWF).
 
