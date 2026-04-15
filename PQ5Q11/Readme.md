@@ -1,4 +1,4 @@
-# PQ5Q1.1: Multimodal Fragmentation of All-Charm Pentaquarks: Uncertainty-Aware Predictions for Hadron Colliders
+# PQ5Q1.1: Multimodal Fragmentation of All-Heavy Pentaquarks: Uncertainty-Aware Predictions for Hadron Colliders
 ## PentaQuarks with 5 heavy Quarks multimodal VFNS FFs
 
 We address the leading-power fragmentation of all-charm pentaquarks ($|c\bar{c}ccc\rangle$ $P_{5c}$ pentacharms) in the color-singlet $S$-wave channel. We introduce a new set of hadron-structure-oriented, $\mbox{\emph{multimodal}}$ collinear fragmentation functions, named $\mbox{\tt PQ5Q1.1}$ [1], which extend and supersede the previous $\mbox{\tt PQ5Q1.0}$ set [2].
