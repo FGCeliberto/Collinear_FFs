@@ -34,4 +34,4 @@ Available FF families to date:
 
    PQ5Q1.0 (NLO, 2 sets, replica 0 = direct multiquark, replica 1 = diquark-like)
 
-   PQ5Q1.1 (NLO, 2 set, F-MHOU + NPWF uncertainties, replica 0->8 = direct multicharm, replica 9->17 = diquark-like)
+   PQ5Q1.1 (NLO, 1 set, F-MHOU + NPWF uncertainties, replica 0->8 = direct multicharm, replica 9->17 = diquark-like)
