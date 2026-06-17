@@ -13,7 +13,7 @@ Available FF families to date:
 
    OMG3Q1.0 (NLO, 2 sets, central value only, diquark-like)
 
-   OMG3Q1.1 (NLO, 2 sets, F-MHOU + NPWF uncertainties, replica 0->8, diquark-like)
+   OMG3Q1.1 (NLO, 2 sets, F-MHOU + F-NPWF uncertainties, replica 0->8, diquark-like)
 
 
 5. TQHLx.y (TetraQuarks with Heavy and Light flavors)
@@ -36,4 +36,4 @@ Available FF families to date:
 
    PQ5Q1.0 (NLO, 2 sets, replica 0 = direct multiquark, replica 1 = diquark-like)
 
-   PQ5Q1.1 (NLO, 1 set, F-MHOU + NPWF uncertainties, replica 0->8 = direct multicharm, replica 9->17 = diquark-like)
+   PQ5Q1.1 (NLO, 1 set, F-MHOU + F-NPWF uncertainties, replica 0->8 = direct multicharm, replica 9->17 = diquark-like)
