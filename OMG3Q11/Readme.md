@@ -15,7 +15,7 @@ Final **$\mbox{\tt LHAPDF}$** grids (central values and replicas) are evolved th
 
 The $\mbox{\tt OMG3Q1.1}$ release contains **9 replicas** for each baryonic species ($\Omega_{3c}$ and $\Omega_{3b}$).
 
-| ID | $K_{\mu}$ | $\langle \vec{q}_T^{\,2} \rangle$ [GeV$^2$] |
+| ID | $K_{\mu}$ | $\langle \vec{q}_T^{2} \rangle$ [GeV$^2$] |
 |----|-----------|----------------------------------------------|
 | 0 | 1.0 | 60 |
 | 1 | 1.0 | 55 |
