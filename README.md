@@ -13,15 +13,17 @@ Available FF families to date:
 
    OMG3Q1.0 (NLO, 2 sets, central value only, diquark-like)
 
+   OMG3Q1.1 (NLO, 2 sets, F-MHOU + NPWF uncertainties, replica 0->8, diquark-like)
 
-4. TQHLx.y (TetraQuarks with Heavy and Light flavors)
+
+5. TQHLx.y (TetraQuarks with Heavy and Light flavors)
 
    TQHL1.0 (NLO, 4 sets, central value only)
 
    TQHL1.1 (NLO, 4 sets, central value only)
 
-  
-5. TQ4Qx.y (TetraQuarks with 4 heavy Quarks)
+
+6. TQ4Qx.y (TetraQuarks with 4 heavy Quarks)
 
    TQ4Q1.0 (NLO, 4 sets, central value only)
 
