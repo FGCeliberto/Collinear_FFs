@@ -1,19 +1,19 @@
 # OMG3Q1.1: Toward Precision Fragmentation of $\Omega_{3Q}$ Baryons
 ## OMeGa baryons with 3 heavy Quarks VFNS FFs
 
-We address the leading-power fragmentation of all-heavy baryons ($\Omega_{3Q}$ states, with $Q=c,b$) in the color-singlet $S$-wave channel. We introduce a new generation of hadron-structure-oriented collinear fragmentation functions, named **{\tt OMG3Q1.1}** [1], which extend and supersede the previous **{\tt OMG3Q1.0}** determinations [2,3].
+We address the leading-power fragmentation of all-heavy baryons ($\Omega_{3Q}$ states, with $Q=c,b$) in the color-singlet $S$-wave channel. We introduce a new generation of hadron-structure-oriented collinear fragmentation functions, named **$\mbox{\tt OMG3Q1.1}$** [1], which extend and supersede the previous **$\mbox{\tt OMG3Q1.0}$** determinations [2,3].
 
-The {\tt OMG3Q1.1} sets are based on a Suzuki-inspired heavy-fragmentation framework combined with diquark-like proxy-model calculations for the initial-scale constituent-heavy-quark [4] and gluon [5] channels. The resulting inputs are evolved through a threshold-aware DGLAP evolution implemented within the **{\tt HF-NRevo}** scheme [6-8], which provides a consistent treatment of heavy-parton thresholds and variable-flavor-number evolution for heavy-hadron fragmentation.
+The $\mbox{\tt OMG3Q1.1}$ sets are based on a Suzuki-inspired heavy-fragmentation framework combined with diquark-like proxy-model calculations for the initial-scale constituent-heavy-quark [4] and gluon [5] channels. The resulting inputs are evolved through a threshold-aware DGLAP evolution implemented within the **$\mbox{\tt HF-NRevo}$** scheme [6-8], which provides a consistent treatment of heavy-parton thresholds and variable-flavor-number evolution for heavy-hadron fragmentation.
 
-Unlike the central-value-only {\tt OMG3Q1.0} release, the {\tt OMG3Q1.1} sets feature an uncertainty-aware construction. Perturbative effects are quantified through fragmentation missing higher-order uncertainties (**F-MHOUs**), while nonperturbative effects are estimated through controlled variations of the transverse-momentum parameter entering the bound-state wave function (**F-NPWFs**).
+Unlike the central-value-only $\mbox{\tt OMG3Q1.0}$ release, the $\mbox{\tt OMG3Q1.1}$ sets feature an uncertainty-aware construction. Perturbative effects are quantified through fragmentation missing higher-order uncertainties (**F-MHOUs**), while nonperturbative effects are estimated through controlled variations of the transverse-momentum parameter entering the bound-state wave function (**F-NPWFs**).
 
 These sources of uncertainty are organized into a replica-based structure. The replicas do not represent Monte Carlo statistical samples, but rather a structured scan over physically motivated perturbative and nonperturbative variations. This organization allows uncertainties to be propagated directly to collider observables while preserving a transparent interpretation of their physical origin.
 
-Final **{\tt LHAPDF}** grids (central values and replicas) are evolved through the **{\tt APFEL++}** library [9].
+Final **$\mbox{\tt LHAPDF}$** grids (central values and replicas) are evolved through the **$\mbox{\tt APFEL++}$** library [9].
 
 ### Replica structure
 
-The {\tt OMG3Q1.1} release contains **9 replicas** for each baryonic species ($\Omega_{3c}$ and $\Omega_{3b}$).
+The $\mbox{\tt OMG3Q1.1}$ release contains **9 replicas** for each baryonic species ($\Omega_{3c}$ and $\Omega_{3b}$).
 
 | ID | $K_{\mu}$ | $\langle \vec{q}_T^{\,2} \rangle$ [GeV$^2$] |
 |----|-----------|----------------------------------------------|
@@ -30,7 +30,7 @@ The {\tt OMG3Q1.1} release contains **9 replicas** for each baryonic species ($\
 where
 
 - $K_{\mu}$ controls the perturbative F-MHOU variation;
-- $\langle \vec{q}_T^{\,2} \rangle$ controls the nonperturbative F-NPWF variation.
+- $\langle \vec{q}_T^{2} \rangle$ controls the nonperturbative F-NPWF variation.
 
 The central replica corresponds to the default parameter configuration. The full ensemble can be used to construct uncertainty envelopes and to disentangle perturbative and nonperturbative effects in phenomenological applications.
 
