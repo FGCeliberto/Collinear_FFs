@@ -38,7 +38,7 @@ Please acknowledge the following references when using these FF sets!
 
 References for DGLAP-evolved FFs
 
-[1] F.G. Celiberto, *Toward Precision Fragmentation of $\Omega_{3Q}$ Baryons: An Uncertainty-Aware Approach*.
+[1] F.G. Celiberto, *Toward Precision Fragmentation of $\Omega_{3Q}$ Baryons: An Uncertainty-Aware Approach*, arXiv:2606.20063 [hep-ph].
 
 [2] F.G. Celiberto, *Unwinding the rare $\Omega$ sector: Fragmentation of fully charmed baryons from HL-LHC to FCC*, Phys. Rev. D **112** (2025) 074023, arXiv:2505.00776 [hep-ph].
 
