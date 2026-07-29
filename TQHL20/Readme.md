@@ -79,5 +79,5 @@ References for initial-scale inputs:
 
 References for HF-NRevo:
 
-[8]&nbsp;&nbsp;F.G. Celiberto and F. Lonigro, "Pseudoscalar heavy-quarkonium hadroproduction from nonrelativistic fragmentation at NLL/NLO⁺", Phys. Rev. D 112 (2025) 11, 114040 [arXiv:2510.10593 [hep-ph]].  
+[8]&nbsp;&nbsp;F.G. Celiberto and F. Lonigro, "Pseudoscalar heavy-quarkonium hadroproduction from nonrelativistic fragmentation at NLL/NLO+", Phys. Rev. D 112 (2025) 11, 114040 [arXiv:2510.10593 [hep-ph]].  
 [9]&nbsp;&nbsp;F.G. Celiberto, "Towards Quarkonium Fragmentation from NRQCD in a Variable-Flavor Number Scheme", Moriond QCD 2024 [arXiv:2405.08221 [hep-ph]]. 
