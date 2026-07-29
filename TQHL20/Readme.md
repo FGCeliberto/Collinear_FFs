@@ -11,7 +11,7 @@ The present release focuses on the hidden-heavy scalar tetraquark states
 
 which provide representative benchmarks for the hidden-charm and hidden-bottom sectors.
 
-The initial conditions combine two complementary fragmentation mechanisms. The **direct** mode describes the fragmentation of a heavy quark into a compact tetraquark through a Suzuki-inspired approach [5,6], while the **scalar-diquark** mode implements a sequential production mechanism mediated by an intermediate heavy-light scalar diquark [7]. Both mechanisms are consistently embedded into the **Heavy-Flavor NonRelativistic Evolution (HF-NRevo)** timelike scheme, and the final LHAPDF grids (central values and replicas) are generated using all-order numerical DGLAP evolution.
+The initial conditions combine two complementary fragmentation mechanisms. The **direct** mode describes the fragmentation of a heavy quark into a compact tetraquark through a Suzuki-inspired approach [5,6], while the **scalar-diquark** mode implements a sequential production mechanism mediated by an intermediate heavy-light scalar diquark [7]. Both mechanisms are consistently embedded into the **Heavy-Flavor NonRelativistic Evolution (HF-NRevo)** timelike scheme [8,9], and the final LHAPDF grids (central values and replicas) are generated using all-order numerical DGLAP evolution.
 
 The TQHL2.0 FFs feature an uncertainty-aware construction that consistently combines perturbative and nonperturbative sources of uncertainty. Perturbative effects are estimated through fragmentation missing higher-order uncertainties (F-MHOUs)) through energy-scale variations, while nonperturbative wave-function effects (F-NPWFs) are modeled via controlled variations of the intrinsic transverse-momentum parameter entering the Suzuki-inspired initial conditions.
 
@@ -77,5 +77,5 @@ References for initial-scale inputs:
 
 References for HF-NRevo:
 
-[8]&nbsp;&nbsp;F.G. Celiberto and F. Lonigro, "Pseudoscalar heavy-quarkonium hadroproduction from nonrelativistic fragmentation at NLL/NLO$^+$", Phys. Rev. D 112 (2025) 11, 114040 [arXiv:2510.10593 [hep-ph]]. 
+[8]&nbsp;&nbsp;F.G. Celiberto and F. Lonigro, "Pseudoscalar heavy-quarkonium hadroproduction from nonrelativistic fragmentation at NLL/NLO$^+$", Phys. Rev. D 112 (2025) 11, 114040 [arXiv:2510.10593 [hep-ph]].  
 [9]&nbsp;&nbsp;F.G. Celiberto, "Towards Quarkonium Fragmentation from NRQCD in a Variable-Flavor Number Scheme", Moriond QCD 2024 [arXiv:2405.08221 [hep-ph]]. 
