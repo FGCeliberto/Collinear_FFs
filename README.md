@@ -22,8 +22,10 @@ Available FF families to date:
 
    TQHL1.1 (NLO, 4 sets, central value only)
 
+   TQHL2.0 (NLO, 3 sets, F-MHOU + F-NPWF uncertainties, replica 0->8 = direct multicharm, replica 9->17 = diquark-like)
 
-6. TQ4Qx.y (TetraQuarks with 4 heavy Quarks)
+
+7. TQ4Qx.y (TetraQuarks with 4 heavy Quarks)
 
    TQ4Q1.0 (NLO, 4 sets, central value only)
 
@@ -32,7 +34,7 @@ Available FF families to date:
    TQ4Q2.0 (NLO, 6 sets, replica-like MHOU uncertainties)
 
 
-7. PQ5Qx.y (PentaQuarks with 5 heavy Quarks)
+8. PQ5Qx.y (PentaQuarks with 5 heavy Quarks)
 
    PQ5Q1.0 (NLO, 2 sets, replica 0 = direct multiquark, replica 1 = diquark-like)
 
