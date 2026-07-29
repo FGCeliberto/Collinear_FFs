@@ -44,7 +44,7 @@ Please acknowledge references when using these FF sets!
 
 References for DGLAP-evolved FFs:
 
-[1]&nbsp;&nbsp;F.G. Celiberto, "Multimodal Fragmentation of All-Heavy Pentaquarks: Uncertainty-Aware Predictions for Hadron Colliders".    
+[1]&nbsp;&nbsp;F.G. Celiberto, "Multimodal Fragmentation of All-Heavy Pentaquarks: Uncertainty-Aware Predictions for Hadron Colliders", Phys. Rev. D 114 (2026) 1, 014009 [arXiv:2605.01539 [hep-ph]].    
 [2]&nbsp;&nbsp;F.G. Celiberto, "Heavy-fragmentation to S-wave pentacharms at next-generation hadron colliders", Eur. Phys. J. C 85 (2025) 12, 1395 [arXiv:2502.11136 [hep-ph]].  
 
 References for initial-scale inputs:
