@@ -1,2 +1,44 @@
 # Collinear_FFs
-Collections of collinear fragmentation functions (FFs) given as LHAPDF grids
+Collections of collinear fragmentation functions (FFs) given as LHPDF grids.
+
+
+Available FF families to date:
+
+1. NRFFx.y (NonRelativistic Fragmentation Functions)
+   
+   NRFF1.0 (NLO, 2 sets, central value only, LDME uncertainties)
+
+
+2. OMG3Qx.y (OMeGa baryons with 3 heavy Quarks VFNS FFs)
+
+   OMG3Q1.0 (NLO, 2 sets, central value only, diquark-like)
+
+   OMG3Q1.1 (NLO, 2 sets, F-MHOU + F-NPWF uncertainties, replica 0->8, diquark-like)
+
+
+3. TQHLx.y (TetraQuarks with Heavy and Light flavors)
+
+   TQHL1.0 (NLO, 4 sets, central value only)
+
+   TQHL1.1 (NLO, 4 sets, central value only)
+
+
+4. TQ4Qx.y (TetraQuarks with 4 heavy Quarks)
+
+   TQ4Q1.0 (NLO, 4 sets, central value only)
+
+   TQ4Q1.1 (NLO, 6 main + 4 supplementary sets, replica-like MHOU uncertainties in main sets)
+
+   TQ4Q2.0 (NLO, 6 sets, replica-like MHOU uncertainties)
+
+
+5. TQ4Qhfx.y (All-heavy Mixed-Flavor Tetraquarks)
+
+   TQ4Qhf1.0 (NLO, 1 set, F-MHOU + F-NPWF uncertainties, replica 0->8 = direct multicharm, replica 9->17 = diquark-like
+
+
+6. PQ5Qx.y (PentaQuarks with 5 heavy Quarks)
+
+   PQ5Q1.0 (NLO, 2 sets, replica 0 = direct multiquark, replica 1 = diquark-like)
+
+   PQ5Q1.1 (NLO, 1 set, F-MHOU + F-NPWF uncertainties, replica 0->8 = direct multicharm, replica 9->17 = diquark-like)
